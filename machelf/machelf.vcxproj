@@ -151,7 +151,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="ElfParser.cpp" />
     <ClCompile Include="machelf.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="elf.h" />
+    <ClInclude Include="ElfParser.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

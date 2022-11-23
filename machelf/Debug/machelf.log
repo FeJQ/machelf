@@ -1,0 +1,3 @@
+﻿  machelf.cpp
+d:\workstation\project\formal\other\machelf\machelf\machelf.cpp(23): warning C4244: “参数”: 从“std::streamoff”转换到“const unsigned int”，可能丢失数据
+  machelf.vcxproj -> D:\WorkStation\Project\Formal\Other\machelf\Debug\machelf.exe
